@@ -1,0 +1,580 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"turt",
+				"turtleBreed"
+			],
+			[
+				"var",
+				"varName"
+			],
+			[
+				"breed",
+				"breedName"
+			],
+			[
+				"rotate",
+				"rotate	rotateY"
+			],
+			[
+				"pt",
+				"ptExport"
+			],
+			[
+				"write",
+				"writeOBJ"
+			],
+			[
+				"begin",
+				"beginshape	beginShape"
+			],
+			[
+				"framera",
+				"framerate	frameRate (set)"
+			],
+			[
+				"for",
+				"for	for"
+			],
+			[
+				"set",
+				"setup	setup"
+			],
+			[
+				"setup",
+				"setup	setup"
+			],
+			[
+				"degr",
+				"degree"
+			],
+			[
+				"a_",
+				"a_parents"
+			],
+			[
+				"parent",
+				"parent_a"
+			],
+			[
+				"b",
+				"b_node"
+			],
+			[
+				"ano",
+				"a_node"
+			],
+			[
+				"test_pare",
+				"test_parent_b"
+			],
+			[
+				"not",
+				"notParentFound"
+			],
+			[
+				"te",
+				"test_parent_a"
+			],
+			[
+				"test",
+				"testNode_a"
+			],
+			[
+				"get",
+				"get_parent"
+			],
+			[
+				"a",
+				"a_node"
+			],
+			[
+				"is",
+				"is_parent"
+			],
+			[
+				"C",
+				"courseName"
+			],
+			[
+				"corse",
+				"courseName"
+			],
+			[
+				"course",
+				"courseName"
+			],
+			[
+				"se",
+				"self"
+			],
+			[
+				"swa",
+				"swapSort"
+			],
+			[
+				"fi",
+				"fixedPoint"
+			],
+			[
+				"lace",
+				"laceStringRecur"
+			],
+			[
+				"ran",
+				"randint  (function)"
+			],
+			[
+				"played",
+				"playedWord"
+			],
+			[
+				"comp",
+				"compChooseWord"
+			],
+			[
+				"displa",
+				"displayHand({'a':1"
+			],
+			[
+				"dbl",
+				"dblMaxScore"
+			],
+			[
+				"co",
+				"Counter  (class)"
+			],
+			[
+				"letter",
+				"letter"
+			],
+			[
+				"wo",
+				"wordlist"
+			],
+			[
+				"best",
+				"bestWord"
+			],
+			[
+				"hi",
+				"higherScore"
+			],
+			[
+				"Wor",
+				"wordList"
+			],
+			[
+				"leter",
+				"letterCounter"
+			],
+			[
+				"hand",
+				"handLength"
+			],
+			[
+				"fil",
+				"filteredList"
+			],
+			[
+				"han",
+				"handLength"
+			],
+			[
+				"sco",
+				"scoreWord"
+			],
+			[
+				"play",
+				"playGame"
+			],
+			[
+				"user",
+				"userInput"
+			],
+			[
+				"total",
+				"totalScore"
+			],
+			[
+				"Total",
+				"totalScore"
+			],
+			[
+				"word",
+				"  wordList: list of lowercase strings"
+			],
+			[
+				"re",
+				"recurPowerNew"
+			],
+			[
+				"rec",
+				"recurPower"
+			],
+			[
+				"li",
+				"listB"
+			],
+			[
+				"list",
+				"listA"
+			],
+			[
+				"tpl",
+				"tplTest"
+			],
+			[
+				"str",
+				"strAvailableLetters"
+			],
+			[
+				"lett",
+				"lettersGuessed"
+			],
+			[
+				"le",
+				"lettersGuessed"
+			],
+			[
+				"sec",
+				"secretWord"
+			],
+			[
+				"mont",
+				"monthlyMinPayment"
+			],
+			[
+				"month",
+				"monthlyPayment"
+			],
+			[
+				"mon",
+				"monthlyPayment"
+			],
+			[
+				"lon",
+				"LongestWord"
+			],
+			[
+				"turq",
+				"turquesa"
+			],
+			[
+				"dblc",
+				"dblCoincidences"
+			],
+			[
+				"find",
+				"Findsimilars"
+			],
+			[
+				"l",
+				"l"
+			],
+			[
+				"num",
+				"numBobs"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 288.0,
+		"selected_items":
+		[
+			[
+				"build",
+				"Build: Run sketch fullscreen"
+			],
+			[
+				"package control ins",
+				"Package Control: Install Package"
+			],
+			[
+				"packacontrol ins",
+				"Package Control: Install Package"
+			],
+			[
+				"packacontrol in",
+				"Package Control: Install Package"
+			],
+			[
+				"paca",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: inta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 520.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/F/003_CODE/Git/Processing/ZZZ_sketches/LOGOTOP5_007/LOGOTOP5_007.sublime-project",
+		"/H/N7/N7.pde",
+		"/F/004_WORK/002_Blurrypaths/Croquis desde parámetros/3DM/130602_Raindrop.py",
+		"/F/003_CODE/Git/Processing/ZZZ_sketches/LOGOTOP5_007/Agent.pde",
+		"/F/003_CODE/Git/Processing/ZZZ_sketches/LOGOTOP5_007/World.pde",
+		"/F/003_CODE/Git/Processing/ZZZ_sketches/LOGOTOP5_007/Breed.pde",
+		"/F/003_CODE/Git/Processing/ZZZ_sketches/LOGOTOP5_004/LOGOTOP5_004.pde",
+		"/F/003_CODE/Git/Processing/ZZZ_sketches/LOGOTOP5_008/LOGOTOP5_008.pde",
+		"/F/003_CODE/Git/Processing/ZZZ_sketches/LOGOTOP5_007/LOGOTOP5_007.pde",
+		"/F/003_CODE/Git/Processing/ZZZ_sketches/kinect2_20141008_01/kinect2_20141008_01.pde",
+		"/F/003_CODE/Git/Processing/libraries/KinectPV2/KinectPV2/examples/SkeletonColor/SkeletonColor.pde",
+		"/F/003_CODE/Git/Processing/ZZZ_sketches/kinect2_20141008_01/build-tmp/source/kinect2_20141008_01.java",
+		"/F/003_CODE/Git/Processing/ZZZ_sketches/growing_000/growing_000.pde",
+		"/F/003_CODE/Git/Processing/ZZZ_sketches/growing_000/tree_000.pde",
+		"/F/003_CODE/Git/Processing/ZZZ_sketches/build_test_000/build_test_000.pde",
+		"/F/003_CODE/Git/Processing/modes/PythonMode/examples/Basics/Color/ColorVariables/ColorVariables.pyde",
+		"/C/Users/Ángel/AppData/Roaming/Sublime Text 3/Packages/Processing/Processing.sublime-build",
+		"/C/Program Files/Sublime Text 3/Packages/Python.sublime-package",
+		"/C/Users/Ángel/AppData/Roaming/Sublime Text 3/Packages/User/testGDL.YAML-tmLanguage",
+		"/F/003_CODE/Git/MITx_6.00.1x/L5_P3.py",
+		"/F/003_CODE/Git/MITx_6.00.1x/Final Exam/P5_1_a.py",
+		"/F/003_CODE/Git/MITx_6.00.1x/L12_P5_a",
+		"/F/003_CODE/Git/MITx_6.00.1x/Final Exam/P6_7_a.py",
+		"/F/003_CODE/Git/Ejercicios/ZZ_Tests/Sublime_rhinoscript_001.py",
+		"/C/Users/Ángel/AppData/Roaming/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/C/Users/Ángel/AppData/Roaming/Sublime Text 3/Packages/SublimeREPL/SublimeREPL.sublime-settings",
+		"/F/003_CODE/Git/MITx_6.00.1x/ps3_hangman.py",
+		"/F/003_CODE/Git/MITx_6.00.1x/PS3a_a.py",
+		"/F/003_CODE/Git/MITx_6.00.1x/Quiz_P5_a.py",
+		"/F/003_CODE/Git/MITx_6.00.1x/W4_exceptionsPractice_a",
+		"/C/Users/Ángel/AppData/Roaming/McNeel/Rhinoceros/5.0/Plug-ins/IronPython (814d908a-e25c-493d-97e9-ee3861957f49)/settings/lib/scriptcontext.py",
+		"/C/Users/Ángel/AppData/Roaming/McNeel/Rhinoceros/5.0/Plug-ins/IronPython (814d908a-e25c-493d-97e9-ee3861957f49)/settings/lib/rhinoscriptsyntax.py",
+		"/F/003_CODE/Git/MITx_6.00.1x/PS7a_a.py",
+		"/F/003_CODE/002_MakeLab/20140405_Sound_parsing.py",
+		"/F/003_CODE/Git/MITx_6.00.1x/Quiz_P6_a.py",
+		"/F/003_CODE/Git/MITx_6.00.1x/Quiz_P7_a.py",
+		"/F/003_CODE/Git/MITx_6.00.1x/Quiz_P8_a.py",
+		"/F/003_CODE/Git/MITx_6.00.1x/ProblemSet4/ps4a_beta.py",
+		"/F/003_CODE/Git/MITx_6.00.1x/ProblemSet4/ps4b_wip_a.py",
+		"/F/003_CODE/Git/MITx_6.00.1x/ProblemSet4/GetBestWord.py",
+		"/F/003_CODE/Git/MITx_6.00.1x/ProblemSet4/AreLetters_a.py",
+		"/F/003_CODE/Git/MITx_6.00.1x/W4_exceptionsPractice_a.py",
+		"/F/vote.py",
+		"/C/Users/Ángel/Desktop/Alumnos_marzoabril",
+		"/F/003_CODE/Git/MITx_6.00.1x/ProblemSet4/test_ps4a.py",
+		"/F/003_CODE/Git/MITx_6.00.1x/Problem Sets/SP3a_m.py",
+		"/F/003_CODE/Git/MITx_6.00.1x/L5_P2.py",
+		"/F/003_CODE/Git/MITx_6.00.1x/L7_P7_a.py",
+		"/F/003_CODE/Git/MITx_6.00.1x/L7_P8.py",
+		"/F/003_CODE/Git/MITx_6.00.1x/L8_P2.py",
+		"/F/003_CODE/Git/MITx_6.00.1x/ProblemSet4/PS4a_m.py",
+		"/F/003_CODE/Git/MITx_6.00.1x/ProblemSet4/ps4a.py",
+		"/F/003_CODE/Git/MITx_6.00.1x/L5_P4.py",
+		"/F/003_CODE/Git/MITx_6.00.1x/L5_P7.py",
+		"/C/Users/Ángel/Desktop/L5_P2.py",
+		"/C/Users/Ángel/Desktop/Test2.py",
+		"/F/003_CODE/Git/MITx_6.00.1x/PS3b_a.py",
+		"/C/Users/Ángel/Desktop/test.py",
+		"/F/003_CODE/Git/MITx_6.00.1x/PS3c_a.py",
+		"/F/003_CODE/Git/MITx_6.00.1x/PS3d_a.py",
+		"/F/003_CODE/Git/MITx_6.00.1x/PS3e_a.py",
+		"/F/003_CODE/Git/MITx_6.00.1x/L6_P2_a.py",
+		"/C/Users/Ángel/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/Ángel/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/Ángel/AppData/Roaming/Sublime Text 3/Packages/User/copyMitX.sublime-snippet",
+		"/F/003_CODE/Git/MITx_6.00.1x/PS2_P2_a.py",
+		"/F/003_CODE/Git/MITx_6.00.1x/L5_P1_a.py",
+		"/F/003_CODE/000_edx_Python/PS2_P1.py",
+		"/F/003_CODE/000_edx_Python/PS2_P2.py",
+		"/F/003_CODE/000_edx_Python/PS2_P1",
+		"/F/003_CODE/Git/Quixote/1984.py",
+		"/F/003_CODE/Git/Qixote/2donq10_mod.txt",
+		"/F/003_CODE/Git/Qixote/Quixote_004.py",
+		"/F/003_CODE/Git/Qixote/Qixote_001.py",
+		"/F/003_CODE/000_edx_Python/Test_004.py",
+		"/F/003_CODE/000_edx_Python/Finger_002.py",
+		"/F/003_CODE/000_edx_Python/Finger_001.py",
+		"/F/003_CODE/000_edx_Python/Finger_002",
+		"/C/Users/Ángel/AppData/Roaming/Sublime Text 3/Packages/SublimeREPL/Default (Windows).sublime-keymap",
+		"/C/Users/Ángel/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Ángel/AppData/Roaming/Sublime Text 3/Packages/User/SublimeREPL.sublime-settings",
+		"/F/003_CODE/000_edx_Python/Test_003",
+		"/C/Users/Ángel/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/C/Users/Ángel/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/C/Users/Ángel/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"world",
+			"oscp5",
+			"osc",
+			"oscevent",
+			"osceve",
+			"xcor",
+			"turtles",
+			"parent_a",
+			"notParentFound",
+			"anualInterestRate",
+			"dbloldbalance",
+			"dblanualInterest",
+			"dblbalance",
+			"balance",
+			"words",
+			"file",
+			"repl",
+			"ctrl+,",
+			"a"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 112.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "LOGOTOP5_007.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 175.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
